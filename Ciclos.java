@@ -24,7 +24,7 @@ public class  Ciclos{
             }
 i++;
         }
-        i++;
+        i=1;
         System.out.println("");
 
         System.out.println("Serie con do-while: ");
